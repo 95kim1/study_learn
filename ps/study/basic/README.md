@@ -168,27 +168,27 @@ c++:<br>
 
 ### - problems
 
-   [boj 10828 : 스택](https://www.acmicpc.net/problem/10828), [(소스)](https://github.com/95kim1/study_learn/blob/main/ps/learn/basic/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B01/%5Bboj%2010828:%20%EC%8A%A4%ED%83%9D%5D.md)<br>
-   [boj 9093 : 단어뒤집기](https://www.acmicpc.net/problem/9093), [(소스)](https://github.com/95kim1/study_learn/blob/main/ps/learn/basic/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B01/%5Bboj%209093%20:%20%EB%8B%A8%EC%96%B4%EB%92%A4%EC%A7%91%EA%B8%B0%5D.md)<br>
-   [boj 9012 : 괄호](https://www.acmicpc.net/problem/9012), [(소스)](https://github.com/95kim1/study_learn/blob/main/ps/learn/basic/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B01/%5Bboj%209012%20:%20%EA%B4%84%ED%98%B8%5D.md)<br>
-   [boj 1874 : 스택 수열](https://www.acmicpc.net/problem/1874), [(소스)](https://github.com/95kim1/study_learn/blob/main/ps/learn/basic/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B01/%5Bboj%201874%20:%20%EC%8A%A4%ED%83%9D%20%EC%88%98%EC%97%B4%5D.md)<br>
-   [boj 1406 : 에디터](https://www.acmicpc.net/problem/1406) [(소스)](https://github.com/95kim1/study_learn/blob/main/ps/learn/basic/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B01/%5Bboj%201406%20:%20%EC%97%90%EB%94%94%ED%84%B0%5D.md)<br>
-   [boj 10845 : 큐](https://www.acmicpc.net/problem/10845) [(소스)](https://github.com/95kim1/study_learn/blob/main/ps/learn/basic/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B01/%5Bboj%2010845%20:%20%ED%81%90%5D.md)<br>
-   [boj : 조세퍼스 문제](https://acmicpc.net/problem/1158) [[소스]]<br>
-   [boj : 덱](https://www.acmicpc.net/problem/10866) [[소스]]<br>
+   [boj 10828 : 스택](https://www.acmicpc.net/problem/10828) // [(소스)](https://github.com/95kim1/study_learn/blob/main/ps/learn/basic/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B01/%5Bboj%2010828:%20%EC%8A%A4%ED%83%9D%5D.md)<br>
+   [boj 9093 : 단어뒤집기](https://www.acmicpc.net/problem/9093) // [(소스)](https://github.com/95kim1/study_learn/blob/main/ps/learn/basic/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B01/%5Bboj%209093%20:%20%EB%8B%A8%EC%96%B4%EB%92%A4%EC%A7%91%EA%B8%B0%5D.md)<br>
+   [boj 9012 : 괄호](https://www.acmicpc.net/problem/9012) // [(소스)](https://github.com/95kim1/study_learn/blob/main/ps/learn/basic/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B01/%5Bboj%209012%20:%20%EA%B4%84%ED%98%B8%5D.md)<br>
+   [boj 1874 : 스택 수열](https://www.acmicpc.net/problem/1874) // [(소스)](https://github.com/95kim1/study_learn/blob/main/ps/learn/basic/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B01/%5Bboj%201874%20:%20%EC%8A%A4%ED%83%9D%20%EC%88%98%EC%97%B4%5D.md)<br>
+   [boj 1406 : 에디터](https://www.acmicpc.net/problem/1406) // [(소스)](https://github.com/95kim1/study_learn/blob/main/ps/learn/basic/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B01/%5Bboj%201406%20:%20%EC%97%90%EB%94%94%ED%84%B0%5D.md)<br>
+   [boj 10845 : 큐](https://www.acmicpc.net/problem/10845) // [(소스)](https://github.com/95kim1/study_learn/blob/main/ps/learn/basic/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B01/%5Bboj%2010845%20:%20%ED%81%90%5D.md)<br>
+   [boj 1158 : 조세퍼스 문제](https://acmicpc.net/problem/1158) // [(소스)](https://github.com/95kim1/study_learn/blob/main/ps/learn/basic/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B01/%5Bboj%201158%20:%20%EC%A1%B0%EC%84%B8%ED%8D%BC%EC%8A%A4%20%EB%AC%B8%EC%A0%9C%5D.md)<br>
+   [boj 10866 : 덱](https://www.acmicpc.net/problem/10866) // [(소스)](https://github.com/95kim1/study_learn/blob/main/ps/learn/basic/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B01/%5Bboj%2010866%20:%20%EB%8D%B1%5D.md)<br>
     
-   [boj : 단어 뒤집기2](https://www.acmicpc.net/problem/17413) [[소스]]<br>
-   [boj : 쇠막대기](https://www.acmicpc.net/problem/10799) [[소스]]<br>
-   [boj : 오큰수](https://www.acmicpc.net/problem/17298) [[소스]]<br>
-   [boj : 오등큰수](https://www.acmicpc.net/problem/17299) [[소스]]<br>
+   [boj 17413 : 단어 뒤집기2](https://www.acmicpc.net/problem/17413) [(소스)](https://github.com/95kim1/study_learn/blob/main/ps/learn/basic/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B01/%5Bboj%2017413%20:%20%EB%8B%A8%EC%96%B4%20%EB%92%A4%EC%A7%91%EA%B8%B02%5D.md)<br>
+   [boj 10799 : 쇠막대기](https://www.acmicpc.net/problem/10799) [(소스)](https://github.com/95kim1/study_learn/blob/main/ps/learn/basic/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B01/%5Bboj%2010799%20:%20%EC%87%A0%EB%A7%89%EB%8C%80%EA%B8%B0%5D.md)<br>
+   [boj 17298 : 오큰수](https://www.acmicpc.net/problem/17298) [(소스)](https://github.com/95kim1/study_learn/blob/main/ps/learn/basic/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B01/%5Bboj%2017298%20:%20%EC%98%A4%ED%81%B0%EC%88%98%5D.md)<br>
+   [boj 17299 : 오등큰수](https://www.acmicpc.net/problem/17299) [(소스)](https://github.com/95kim1/study_learn/blob/main/ps/learn/basic/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B01/%5Bboj%2017299%20:%20%EC%98%A4%EB%93%B1%ED%81%B0%EC%88%98%5D.md)<br>
    
-   [boj : 후위 표기식](https://www.acmicpc.net/problem/1918) [[소스]]<br>
-   [boj : 후위 표기식2](https://www.acmicpc.net/problem/1935) [[소스]]<br>
-   [boj : 알파벳 개수](https://www.acmicpc.net/problem/10808) [[소스]]<br>
-   [boj : 문자열 분석](https://www.acmicpc.net/problem/10820) [[소스]]<br>
-   [boj : ROT13](https://www.acmicpc.net/problem/11655) [[소스]]<br>
-   [boj : 네 수](https://www.acmicpc.net/problem/10824) [[소스]]<br>
-   [boj : 접미사 배열](https://www.acmicpc.net/problem/11656) [[소스]]
+   [boj 1918 : 후위 표기식](https://www.acmicpc.net/problem/1918) [(소스)](https://github.com/95kim1/study_learn/blob/main/ps/learn/basic/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B01/%5Bboj%201918%20:%20%ED%9B%84%EC%9C%84%20%ED%91%9C%EA%B8%B0%EC%8B%9D%5D.md)<br>
+   [boj 1935 : 후위 표기식2](https://www.acmicpc.net/problem/1935) [(소스)](https://github.com/95kim1/study_learn/blob/main/ps/learn/basic/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B01/%5Bboj%201935%20:%20%ED%9B%84%EC%9C%84%20%ED%91%9C%EA%B8%B0%EC%8B%9D2%5D.md)<br>
+   [boj 10808 : 알파벳 개수](https://www.acmicpc.net/problem/10808) [(소스)](https://github.com/95kim1/study_learn/blob/main/ps/learn/basic/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B01/%5Bboj%2010808%20:%20%EC%95%8C%ED%8C%8C%EB%B2%B3%20%EA%B0%9C%EC%88%98%5D.md)<br>
+   [boj 10820 : 문자열 분석](https://www.acmicpc.net/problem/10820) [(소스)](https://github.com/95kim1/study_learn/blob/main/ps/learn/basic/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B01/%5Bboj%2010820%20:%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%B6%84%EC%84%9D%5D.md)<br>
+   [boj 11655 : ROT13](https://www.acmicpc.net/problem/11655) [(소스)](https://github.com/95kim1/study_learn/blob/main/ps/learn/basic/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B01/%5Bboj%2011655%20:%20ROT13%5D.md)<br>
+   [boj 10824 : 네 수](https://www.acmicpc.net/problem/10824) [(소스)](https://github.com/95kim1/study_learn/blob/main/ps/learn/basic/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B01/%5Bboj%2010824%20:%20%EB%84%A4%20%EC%88%98%5D.md)<br>
+   [boj 11656 : 접미사 배열](https://www.acmicpc.net/problem/11656) [(소스)](https://github.com/95kim1/study_learn/blob/main/ps/learn/basic/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B01/%5Bboj%2011656%20:%20%EC%A0%91%EB%AF%B8%EC%82%AC%20%EB%B0%B0%EC%97%B4%5D.md)
     
 <br><br>
 
