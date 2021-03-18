@@ -168,12 +168,12 @@ c++:<br>
 
 ### - problems
 
-   [boj : 스택](https://www.acmicpc.net/problem/10828) [[소스]]<br>
-   [boj : 단어뒤집기](https://www.acmicpc.net/problem/9093) [[소스]]<br>
-   [boj : 괄호](https://www.acmicpc.net/problem/9012) [[소스]]<br>
-   [boj : 스택 수열](https://www.acmicpc.net/problem/1874) [[소스]]<br>
-   [boj : 에디터](https://www.acmicpc.net/problem/1406) [[소스]]<br>
-   [boj : 큐](https://www.acmicpc.net/problem/10845) [[소스]]<br>
+   [boj 10828 : 스택](https://www.acmicpc.net/problem/10828), [(소스)](https://github.com/95kim1/study_learn/blob/main/ps/learn/basic/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B01/%5Bboj%2010828:%20%EC%8A%A4%ED%83%9D%5D.md)<br>
+   [boj 9093 : 단어뒤집기](https://www.acmicpc.net/problem/9093), [(소스)](https://github.com/95kim1/study_learn/blob/main/ps/learn/basic/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B01/%5Bboj%209093%20:%20%EB%8B%A8%EC%96%B4%EB%92%A4%EC%A7%91%EA%B8%B0%5D.md)<br>
+   [boj 9012 : 괄호](https://www.acmicpc.net/problem/9012), [(소스)](https://github.com/95kim1/study_learn/blob/main/ps/learn/basic/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B01/%5Bboj%209012%20:%20%EA%B4%84%ED%98%B8%5D.md)<br>
+   [boj 1874 : 스택 수열](https://www.acmicpc.net/problem/1874), [(소스)](https://github.com/95kim1/study_learn/blob/main/ps/learn/basic/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B01/%5Bboj%201874%20:%20%EC%8A%A4%ED%83%9D%20%EC%88%98%EC%97%B4%5D.md)<br>
+   [boj 1406 : 에디터](https://www.acmicpc.net/problem/1406) [(소스)](https://github.com/95kim1/study_learn/blob/main/ps/learn/basic/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B01/%5Bboj%201406%20:%20%EC%97%90%EB%94%94%ED%84%B0%5D.md)<br>
+   [boj 10845 : 큐](https://www.acmicpc.net/problem/10845) [(소스)](https://github.com/95kim1/study_learn/blob/main/ps/learn/basic/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B01/%5Bboj%2010845%20:%20%ED%81%90%5D.md)<br>
    [boj : 조세퍼스 문제](https://acmicpc.net/problem/1158) [[소스]]<br>
    [boj : 덱](https://www.acmicpc.net/problem/10866) [[소스]]<br>
     
