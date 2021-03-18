@@ -213,7 +213,7 @@ c++:<br>
     2. n이하 소수 모두 찾기:  에라토스테네스의체 이용 --- O(N log(logN)) )
 
 #### - problems
-|문제(링크)|소스(링크|
+|문제(링크)|소스코드(링크)|
 |:------:|:------:|
 | [boj 10430 : 나머지](https://www.acmicpc.net/problem/10430) | [(소스)](https://github.com/95kim1/study_learn/blob/main/ps/learn/basic/%EC%88%98%ED%95%991/%5Bboj%2010430%20:%20%EB%82%98%EB%A8%B8%EC%A7%80%5D.md) |
 | [boj 2609 : 최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609) | [(소스)](https://github.com/95kim1/study_learn/blob/main/ps/learn/basic/%EC%88%98%ED%95%991/%5Bboj%202609%20:%20%EC%B5%9C%EB%8C%80%EA%B3%B5%EC%95%BD%EC%88%98%EC%99%80%20%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98%5D.md) |
@@ -269,7 +269,39 @@ DP와 분할 정복의 차이점 : 중복의 발생 여부
 #### 문제 풀이 전략
     점화식 정의 세우기 -> 점화식 세우기
 
+#### problems
+|문제(링크)|소스코드(링크)|
+|:-------:|:-------:|
+| [boj 1463 : 1로 만들기](https://acmicpc.net/problem/1463) | [(source code)](https://github.com/95kim1/study_learn/blob/main/ps/learn/basic/%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D1/%5Bboj%201463%20:%201%EB%A1%9C%20%EB%A7%8C%EB%93%A4%EA%B8%B0%5D.md) |
+| [boj 11726 : 2Xn 타일링](https://acmicpc.net/problem/11726) | [(source code)](https://github.com/95kim1/study_learn/blob/main/ps/learn/basic/%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D1/%5Bboj%2011726%20:%202Xn%20%ED%83%80%EC%9D%BC%EB%A7%81%5D.md) |
+| [boj 11727 : 2Xn 타일링 2](https://acmicpc.net/problem/11727) | [(source code)](https://github.com/95kim1/study_learn/blob/main/ps/learn/basic/%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D1/%5Bboj%2011727%20:%202Xn%20%ED%83%80%EC%9D%BC%EB%A7%81%202%5D.md) |
+| [boj 9095 : 1,2,3 더하기](https://acmicpc.net/problem/9095) | [(source code)](https://github.com/95kim1/study_learn/blob/main/ps/learn/basic/%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D1/%5Bboj%209095%20:%201%2C2%2C3%20%EB%8D%94%ED%95%98%EA%B8%B0%5D.md) |
+| [boj 11052 : 카드 구매하기](https://acmicpc.net/problem/11052) | [(source code)](https://github.com/95kim1/study_learn/blob/main/ps/learn/basic/%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D1/%5Bboj%2011052%20:%20%EC%B9%B4%EB%93%9C%20%EA%B5%AC%EB%A7%A4%ED%95%98%EA%B8%B0%5D.md) |
+| [boj 16194 : 카드 구매하기 2](https://acmicpc.net/problem/16194) | [(source code)](https://github.com/95kim1/study_learn/blob/main/ps/learn/basic/%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D1/%5Bboj%2016194%20:%20%EC%B9%B4%EB%93%9C%20%EA%B5%AC%EB%A7%A4%ED%95%98%EA%B8%B0%202%5D.md) |
+| [boj 15990 : 1,2,3 더하기 5](https://acmicpc.net/problem/15990) | [(source code)](https://github.com/95kim1/study_learn/blob/main/ps/learn/basic/%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D1/%5Bboj%2015990%20:%201%2C2%2C3%20%EB%8D%94%ED%95%98%EA%B8%B0%205%5D.md) |
+| [boj 10844 : 쉬운 계단 수](https://acmicpc.net/problem/10844) | [(source code)](https://github.com/95kim1/study_learn/blob/main/ps/learn/basic/%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D1/%5Bboj%2010844%20:%20%EC%89%AC%EC%9A%B4%20%EA%B3%84%EB%8B%A8%20%EC%88%98%5D.md) |
+| [boj 2193 : 이친수](https://acmicpc.net/problem/2193) | [(source code)](https://github.com/95kim1/study_learn/blob/main/ps/learn/basic/%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D1/%5Bboj%202193%20:%20%EC%9D%B4%EC%B9%9C%EC%88%98%5D.md) |
+| [boj 11053 : 가장 긴 증가하는 부분 수열](https://acmicpc.net/problem/11053) | [(source code)](https://github.com/95kim1/study_learn/blob/main/ps/learn/basic/%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D1/%5Bboj%2011053%20:%20%EA%B0%80%EC%9E%A5%20%EA%B8%B4%20%EC%A6%9D%EA%B0%80%ED%95%98%EB%8A%94%20%EB%B6%80%EB%B6%84%20%EC%88%98%EC%97%B4%5D.md) |
+| [boj 14002 : 가장 긴 증가하는 부분 수열 4](https://acmicpc.net/problem/14002) | [(source code)](https://github.com/95kim1/study_learn/blob/main/ps/learn/basic/%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D1/%5Bboj%2014002%20:%20%EA%B0%80%EC%9E%A5%20%EA%B8%B4%20%EC%A6%9D%EA%B0%80%ED%95%98%EB%8A%94%20%EB%B6%80%EB%B6%84%20%EC%88%98%EC%97%B4%204%5D.md) |
+| [boj 1912 : 연속합](https://acmicpc.net/problem/1912) | [(source code)](https://github.com/95kim1/study_learn/blob/main/ps/learn/basic/%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D1/%5Bboj%201912%20:%20%EC%97%B0%EC%86%8D%ED%95%A9%5D.md) |
+| [boj 1699 : 제곱수의 합](https://acmicpc.net/problem/1699) | [(source code)](https://github.com/95kim1/study_learn/blob/main/ps/learn/basic/%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D1/%5Bboj%201699%20:%20%EC%A0%9C%EA%B3%B1%EC%88%98%EC%9D%98%20%ED%95%A9%5D.md) |
+| [boj 2225 : 합분해](https://acmicpc.net/problem/2225) | [(source code)](https://github.com/95kim1/study_learn/blob/main/ps/learn/basic/%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D1/%5Bboj%202225%20:%20%ED%95%A9%EB%B6%84%ED%95%B4%5D.md) |
+| | |
+| [boj 15988 : 1,2,3 더하기 3](https://acmicpc.net/problem/15988) | [(source code)](https://github.com/95kim1/study_learn/blob/main/ps/learn/basic/%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D1/%5Bboj%2015988%20:%201%2C2%2C3%20%EB%8D%94%ED%95%98%EA%B8%B0%203%5D.md) |
+| [boj 1149 : RGB 거리](https://acmicpc.net/problem/1149) | [(source code)](https://github.com/95kim1/study_learn/blob/main/ps/learn/basic/%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D1/%5Bboj%201149%20:%20RGB%20%EA%B1%B0%EB%A6%AC%5D.md) |
+| [boj 1309 : 동물원](https://acmicpc.net/problem/1309) | [(source code)](https://github.com/95kim1/study_learn/blob/main/ps/learn/basic/%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D1/%5Bboj%201309%20:%20%EB%8F%99%EB%AC%BC%EC%9B%90%5D.md) |
+| [boj 11057 : 오르막 수](https://acmicpc.net/problem/11057) | [(source code)](https://github.com/95kim1/study_learn/blob/main/ps/learn/basic/%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D1/%5Bboj%2011057%20:%20%EC%98%A4%EB%A5%B4%EB%A7%89%20%EC%88%98%5D.md) |
+| [boj 9465 : 스티커](https://acmicpc.net/problem/9465) | [(source code)](https://github.com/95kim1/study_learn/blob/main/ps/learn/basic/%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D1/%5Bboj%209465%20:%20%EC%8A%A4%ED%8B%B0%EC%BB%A4%5D.md) |
+| [boj 2156 : 포도주 시식](https://acmicpc.net/problem/2156) | [(source code)](https://github.com/95kim1/study_learn/blob/main/ps/learn/basic/%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D1/%5Bboj%202156%20:%20%ED%8F%AC%EB%8F%84%EC%A3%BC%20%EC%8B%9C%EC%8B%9D%5D.md) |
+| [boj 1932 : 정수 삼각형](https://acmicpc.net/problem/1932) | [(source code)](https://github.com/95kim1/study_learn/blob/main/ps/learn/basic/%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D1/%5Bboj%201932%20:%20%EC%A0%95%EC%88%98%20%EC%82%BC%EA%B0%81%ED%98%95%5D.md) |
+| [boj 11055 : 가장 큰 증가하는 부분 수열](https://acmicpc.net/problem/11055) | [(source code)](https://github.com/95kim1/study_learn/blob/main/ps/learn/basic/%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D1/%5Bboj%2011055%20:%20%EA%B0%80%EC%9E%A5%20%ED%81%B0%20%EC%A6%9D%EA%B0%80%ED%95%98%EB%8A%94%20%EB%B6%80%EB%B6%84%20%EC%88%98%EC%97%B4%5D.md) |
+| [boj 11722 : 가장 긴 감소하는 부분 수열](https://acmicpc.net/problem/11722) | [(source code)](https://github.com/95kim1/study_learn/blob/main/ps/learn/basic/%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D1/%5Bboj%2011722%20:%20%EA%B0%80%EC%9E%A5%20%EA%B8%B4%20%EA%B0%90%EC%86%8C%ED%95%98%EB%8A%94%20%EB%B6%80%EB%B6%84%20%EC%88%98%EC%97%B4%5D.md) |
+| [boj 11054 : 가장 긴 바이토닉 부분 수열](https://acmicpc.net/problem/11054) | [(source code)](https://github.com/95kim1/study_learn/blob/main/ps/learn/basic/%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D1/%5Bboj%2011054%20:%20%EA%B0%80%EC%9E%A5%20%EA%B8%B4%20%EB%B0%94%EC%9D%B4%ED%86%A0%EB%8B%89%20%EB%B6%80%EB%B6%84%20%EC%88%98%EC%97%B4%5D.md) |
+| [boj 13398 : 연속합 2](https://acmicpc.net/problem/13398) | [(source code)](https://github.com/95kim1/study_learn/blob/main/ps/learn/basic/%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D1/%5Bboj%2013398%20:%20%EC%97%B0%EC%86%8D%ED%95%A9%202%5D.md) |
+| [boj 2133 : 타일 채우기](https://acmicpc.net/problem/2133) | [(source code)](https://github.com/95kim1/study_learn/blob/main/ps/learn/basic/%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D1/%5Bboj%202133%20:%20%ED%83%80%EC%9D%BC%20%EC%B1%84%EC%9A%B0%EA%B8%B0%5D.md) |
+| | |
+| [boj 17404 : RGB 거리 2](https://acmicpc.net/problem/17404) | [(source code)](https://github.com/95kim1/study_learn/blob/main/ps/learn/basic/%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D1/%5Bboj%2017404%20:%20RGB%20%EA%B1%B0%EB%A6%AC%202%5D.md) |
 
-	
+
 
 
