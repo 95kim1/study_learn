@@ -218,7 +218,7 @@ c++:<br>
 | [boj 10430 : 나머지](https://www.acmicpc.net/problem/10430) | [(소스)](https://github.com/95kim1/study_learn/blob/main/ps/learn/basic/Math_1/%5Bboj10430_%EB%82%98%EB%A8%B8%EC%A7%80%5D.cpp) |
 | [boj 2609 : 최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609) | [(소스)](https://github.com/95kim1/study_learn/blob/main/ps/learn/basic/Math_1/%5Bboj2609_%EC%B5%9C%EB%8C%80%EA%B3%B5%EC%95%BD%EC%88%98%EC%99%80%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98%5D.cpp) |
 | [boj 1934 : 최소공배수](https://www.acmicpc.net/problem/1934) | [(소스)](https://github.com/95kim1/study_learn/blob/main/ps/learn/basic/Math_1/%5Bboj1934_%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98%5D.cpp) |
-| [boj 1978 : 소수 찾기](https://www.acmicpc.net/problem/1978) | [(소스)](https://github.com/95kim1/study_learn/blob/main/ps/learn/basic/%EC%88%98%ED%95%991/%5Bboj%201978%20:%20%EC%86%8C%EC%88%98%20%EC%B0%BE%EA%B8%B0%5D.md) |
+| [boj 1978 : 소수 찾기](https://www.acmicpc.net/problem/1978) | [(소스)](https://github.com/95kim1/study_learn/blob/main/ps/learn/basic/Math_1/%5Bboj1978_%EC%86%8C%EC%88%98%EC%B0%BE%EA%B8%B0%5D.cpp) |
 | [boj 1929 : 소수 구하기](https://www.acmicpc.net/problem/1929) | [(소스)](https://github.com/95kim1/study_learn/blob/main/ps/learn/basic/Math_1/%5Bboj1929_%EC%86%8C%EC%88%98%EA%B5%AC%ED%95%98%EA%B8%B0%5D.cpp) |
 | [boj 6588 : 골드바흐의 추측](https://www.acmicpc.net/problem/6588) | [(소스)](https://github.com/95kim1/study_learn/blob/main/ps/learn/basic/Math_1/%5Bboj6588_%EA%B3%A8%EB%93%9C%EB%B0%94%ED%9D%90%EC%9D%98%EC%B6%94%EC%B8%A1%5D.cpp) |
 | [boj 10872 : 팩토리얼](https://www.acmicpc.net/problem/10872) | [(소스)](https://github.com/95kim1/study_learn/blob/main/ps/learn/basic/Math_1/%5Bboj10872_%ED%8C%A9%ED%86%A0%EB%A6%AC%EC%96%BC%5D.cpp) |
