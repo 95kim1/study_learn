@@ -21,7 +21,7 @@
 
 ### problems
 
-1. Just doing all things
+#### 1. Just doing all things
 
 |문제(링크)|소스코드(링크)|비고|
 |:------:|:--------:|:--:|
@@ -33,7 +33,7 @@
 
 <br>
 
-2. Doing with jump
+#### 2. Doing with jump
 
 |문제(링크)|소스코드(링크)|비고|
 |:------:|:--------:|:--:|
@@ -42,7 +42,7 @@
 
 <br>
 
-3. Recursion N and M (basics)
+#### 3. Recursion N and M (basics)
 
 |문제(링크)|소스코드(링크)|비고|
 |:------:|:--------:|:--:|
@@ -61,7 +61,7 @@
 
 <br>
 
-4. Permutation
+#### 4. Permutation
 
 **다음 순열 구하기**
 
@@ -92,7 +92,7 @@
 
 <br>
 
-5. Recursion (choice & backtracking)
+#### 5. Recursion (choice & backtracking)
 
 (base)
 
@@ -116,5 +116,5 @@
 
 <br>
 
-6. Bitmask
+#### 6. Bitmask
 
