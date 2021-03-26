@@ -225,7 +225,7 @@ c++:<br>
 | [boj 1676 : 팩토리얼 0의 개수](https://www.acmicpc.net/problem/1676) | [(소스)](https://github.com/95kim1/study_learn/blob/main/ps/learn/basic/Math_1/%5Bboj1676_%ED%8C%A9%ED%86%A0%EB%A6%AC%EC%96%BC0%EC%9D%98%EA%B0%9C%EC%88%98%5D.cpp) |
 | [boj 2004 : 조합 0의 개수](https://www.acmicpc.net/problem/2004) | [(소스)](https://github.com/95kim1/study_learn/blob/main/ps/learn/basic/Math_1/%5Bboj2004_%EC%A1%B0%ED%95%A90%EC%9D%98%EA%B0%9C%EC%88%98%5D.cpp) |
 | | |
-| [boj 9613 : GCD 합](https://www.acmicpc.net/problem/9613) | [(소스)](hhttps://github.com/95kim1/study_learn/blob/main/ps/learn/basic/Math_1/%5Bboj9613_GCD%ED%95%A9%5D.cpp) |
+| [boj 9613 : GCD 합](https://www.acmicpc.net/problem/9613) | [(소스)](https://github.com/95kim1/study_learn/blob/main/ps/learn/basic/Math_1/%5Bboj9613_GCD%ED%95%A9%5D.cpp) |
 | [boj 17087 : 숨바꼭질6](https://www.acmicpc.net/problem/17087) | [(소스)](https://github.com/95kim1/study_learn/blob/main/ps/learn/basic/Math_1/%5Bboj17087_%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%886%5D.cpp) |
 | [boj 1373 : 2진수 8진수](https://www.acmicpc.net/problem/1373) | [(소스)](https://github.com/95kim1/study_learn/blob/main/ps/learn/basic/Math_1/%5Bboj1373_2%EC%A7%84%EC%88%988%EC%A7%84%EC%88%98%5D.cpp) |
 | [boj 1212 : 8진수 2진수](https://www.acmicpc.net/problem/1212) | [(소스)](https://github.com/95kim1/study_learn/blob/main/ps/learn/basic/Math_1/%5Bboj1212_8%EC%A7%84%EC%88%982%EC%A7%84%EC%88%98%5D.cpp) |
