@@ -38,4 +38,8 @@ problems
 | [boj 14889 : 스타트와 링크](https://www.acmicpc.net/problem/14889) | [(소스)](https://github.com/95kim1/study_learn/blob/main/ps/learn/basic2/BruteForce/%5Bboj14889_%EC%8A%A4%ED%83%80%ED%8A%B8%EC%99%80%EB%A7%81%ED%81%AC%5D.cpp) |
 | [boj 2529 : 부등호](https://www.acmicpc.net/problem/2529) | [(소스)](https://github.com/95kim1/study_learn/blob/main/ps/learn/basic2/BruteForce/%5Bboj2529_%EB%B6%80%EB%93%B1%ED%98%B8%5D.cpp) |
 | [boj 1248 : 맞춰봐](https://www.acmicpc.net/problem/1248) | [(소스)](https://github.com/95kim1/study_learn/blob/main/ps/learn/basic2/BruteForce/%5Bboj1248_%EB%A7%9E%EC%B6%B0%EB%B4%90%5D.cpp) |
+|bitmask| |
+| [boj 1182 : 부분집합의 합](https://www.acmicpc.net/problem/1182) |[(소스)](https://github.com/95kim1/study_learn/blob/main/ps/learn/basic2/BruteForce/%5Bboj1182_%EB%B6%80%EB%B6%84%EC%A7%91%ED%95%A9%EC%9D%98%ED%95%A9%5D.cpp)|
+| [boj 14889 : 스타트와 링크](https://www.acmicpc.net/problem/14889) |[(소스)](https://github.com/95kim1/study_learn/blob/main/ps/learn/basic2/BruteForce/%5Bboj14889_%EC%8A%A4%ED%83%80%ED%8A%B8%EC%99%80%EB%A7%81%ED%81%AC%5D_2.cpp)|
+| [boj 14391 : 종이 조각](https://www.acmicpc.net/problem/14391) |[(소스)](https://github.com/95kim1/study_learn/blob/main/ps/learn/basic2/BruteForce/%5Bboj14391_%EC%A2%85%EC%9D%B4%EC%A1%B0%EA%B0%81%5D.cpp)|
 
