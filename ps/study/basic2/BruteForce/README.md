@@ -118,3 +118,17 @@
 
 #### 6. Bitmask
 
+**비트 연산 (bitmask)**
+
+    1. 검사: A & (1<<i) == A의 i번째 비트가 1인지 아닌지 검사
+    2. 추가: A |= (1<<i) → A의 i번째 비트에 1 추가
+    3. 제거: A &= ~(1<<i) → A의 i번째 비트에 1 제거
+    4. 토글: A ^= (1<<i) → A의 i번째 비트를 반대 비트로 변경 
+      
+    (전체 집합 : (1<<N)-1, 공집합 : 0)
+    
+|문제(링크)|소스코드(링크)|비고|
+|:------:|:--------:|:-:|
+| [boj 1182 : 부분집합의 합](https://www.acmicpc.net/problem/1182) |[(소스)](https://github.com/95kim1/study_learn/blob/main/ps/learn/basic2/BruteForce/%5Bboj1182_%EB%B6%80%EB%B6%84%EC%A7%91%ED%95%A9%EC%9D%98%ED%95%A9%5D.cpp)||
+| [boj 14889 : 스타트와 링크](https://www.acmicpc.net/problem/14889) |[(소스)](https://github.com/95kim1/study_learn/blob/main/ps/learn/basic2/BruteForce/%5Bboj14889_%EC%8A%A4%ED%83%80%ED%8A%B8%EC%99%80%EB%A7%81%ED%81%AC%5D_2.cpp)||
+| [boj 14391 : 종이 조각](https://www.acmicpc.net/problem/14391) |[(소스)](https://github.com/95kim1/study_learn/blob/main/ps/learn/basic2/BruteForce/%5Bboj14391_%EC%A2%85%EC%9D%B4%EC%A1%B0%EA%B0%81%5D.cpp)||
