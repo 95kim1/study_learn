@@ -1,4 +1,4 @@
-//[boj 13023 : ABCED](https://www.acmicpc.net/problem/13023)
+//[boj 13023 : ABCDD](https://www.acmicpc.net/problem/13023)
 
 #include <iostream>
 #include <vector>
