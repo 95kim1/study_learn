@@ -25,3 +25,4 @@
 
 - [basic2](https://github.com/95kim1/study_learn/tree/main/ps/learn/basic2)
   + [BruteForce](https://github.com/95kim1/study_learn/tree/main/ps/learn/basic2/BruteForce)
+  + [Graph_1](https://github.com/95kim1/study_learn/tree/main/ps/learn/basic2/Graph_1)
