@@ -17,3 +17,4 @@
 |:------:|:--------:|:--:|
 |[boj 16940 : BFS 스페셜 저지](https://www.acmicpc.net/problem/16940)|[(소스)](https://github.com/95kim1/study_learn/blob/main/ps/learn/basic2/Graph_1/%5Bboj16940_BFS%EC%8A%A4%ED%8E%98%EC%85%9C%EC%A0%80%EC%A7%80%5D.cpp)|BFS 특징 응용|
 |[boj 16940 : BFS 스페셜 저지](https://www.acmicpc.net/problem/16940)|[(소스)](https://github.com/95kim1/study_learn/blob/main/ps/learn/basic2/Graph_1/%5Bboj16964_DFS%EC%8A%A4%ED%8E%98%EC%85%9C%EC%A0%80%EC%A7%80%5D.cpp)|DFS 특징 응용|
+|[boj 2164 : 다리 만들기](https://www.acmicpc.net/problem/2164)|[(소스)](https://github.com/95kim1/study_learn/blob/main/ps/learn/basic2/Graph_1/%5Bboj2164_%EB%8B%A4%EB%A6%AC%EB%A7%8C%EB%93%A4%EA%B8%B0%5D.cpp) [(소스2)](https://github.com/95kim1/study_learn/blob/main/ps/learn/basic2/Graph_1/%5Bboj2164_%EB%8B%A4%EB%A6%AC%EB%A7%8C%EB%93%A4%EA%B8%B0%5D_2.cpp)|DFS(separate) BFS(최단거리)|
