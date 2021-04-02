@@ -10,7 +10,7 @@
 
 - [basic2](https://github.com/95kim1/study_learn/tree/main/ps/study/basic2)
   + [브루트 포스](https://github.com/95kim1/study_learn/tree/main/ps/study/basic2/BruteForce)
-
+  + [그래프1](https://github.com/95kim1/study_learn/tree/main/ps/study/basic2/Graph_1)
 
 <br>
 <br>
