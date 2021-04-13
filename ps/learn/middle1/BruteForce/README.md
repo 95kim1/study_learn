@@ -20,9 +20,16 @@
 
 |문제(링크)|소스코드(링크)|비고|
 |:------:|:--------:|:--:|
-|[boj]()|[(소스)]()||
-|[boj]()|[(소스)]()||
-|[boj]()|[(소스)]()||
+|[[boj 6603 : 로또]](https://www.acmicpc.net/problem/6603)|[(소스)]()||
+|[[boj 1182 : 부분수열의 합]](https://www.acmicpc.net/problem/1182)|[(소스)]()||
+|[[boj 14225 : 부분수열의 합]](https://www.acmicpc.net/problem/14225)|[(소스)]()||
+|[[boj 14888 : 연산자 끼워넣기]](https://www.acmicpc.net/problem/14888)|[(소스)]()||
+|[[boj 14500 : 테트로미노]](https://www.acmicpc.net/problem/14500)|[(소스)]()||
+|[[boj 16197 : 두 동전]](https://www.acmicpc.net/problem/16197)|[(소스)]()||
+|[[boj 16198 : 에너지 모으기]](https://www.acmicpc.net/problem/16198)|[(소스)]()||
+|[[boj 9663 : N-Queen]](https://www.acmicpc.net/problem/9663)|[(소스)]()||
+|[[boj 4574 : 스토미노쿠]](https://www.acmicpc.net/problem/4574)|[(소스)]()||
+|[[boj 1987 : 알파벳]](https://acmicpc.net/problem/1987)|[(소스)]()||
 
 ## 비트마스크
 
