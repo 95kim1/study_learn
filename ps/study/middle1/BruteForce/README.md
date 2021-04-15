@@ -31,12 +31,23 @@
 |[[boj 4574 : 스토미노쿠]](https://www.acmicpc.net/problem/4574)|[(소스)](https://github.com/95kim1/study_learn/blob/main/ps/learn/middle1/BruteForce/%5Bboj4574_%EC%8A%A4%EB%8F%84%EB%AF%B8%EB%85%B8%EC%BF%A0%5D.cpp)||
 |[[boj 1987 : 알파벳]](https://acmicpc.net/problem/1987)|[(소스)](https://github.com/95kim1/study_learn/blob/main/ps/learn/middle1/BruteForce/%5Bboj1987_%EC%95%8C%ED%8C%8C%EB%B2%B3%5D.cpp)||
 
+<br>
+
+### * 재귀와 다이나믹프로그래밍
+
+- 문제:
+[boj 14501 : 퇴사](https://www.acmicpc.net/problem/14501)
+- 재귀: [(소스)]()
+- 다이나믹프로그래밍: [(소스)]() [(소스2)]()
+
+
 ## 비트마스크
 
 ### problems
 
 |문제(링크)|소스코드(링크)|비고|
 |:------:|:--------:|:--:|
-|[boj]()|[(소스)]()||
-|[boj]()|[(소스)]()||
-|[boj]()|[(소스)]()||
+|[boj 14225 : 부분수열의 합](https://www.acmicpc.net/problem/14225)|[(소스)]()||
+|[boj 1062 : 가르침](https://www.acmicpc.net/problem/1062))|[(소스)]()||
+|[boj 13460 : 구슬탈출 2](https://www.acmicpc.net/problem/13460)|[(소스)]()||
+|[boj 12100 : 2048(EASY)](https://www.acmicpc.net/problem/12100)|[(소스)]()||
