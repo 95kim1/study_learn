@@ -37,8 +37,8 @@
 
 - 문제:
 [boj 14501 : 퇴사](https://www.acmicpc.net/problem/14501)
-- 재귀: [(소스)]()
-- 다이나믹프로그래밍: [(소스)]() [(소스2)]()
+- 재귀: [(소스)](https://github.com/95kim1/study_learn/blob/main/ps/learn/middle1/BruteForce/%5Bboj14501_%ED%87%B4%EC%82%AC%5D(%EC%9E%AC%EA%B7%80).cpp)
+- 다이나믹프로그래밍: [(소스)](https://github.com/95kim1/study_learn/blob/main/ps/learn/middle1/BruteForce/%5Bboj14501_%ED%87%B4%EC%82%AC%5D(DP).cpp) [(소스2)](https://github.com/95kim1/study_learn/blob/main/ps/learn/middle1/BruteForce/%5Bboj14501_%ED%87%B4%EC%82%AC%5D(DPforLoop).cpp)
 
 
 ## 비트마스크
@@ -47,7 +47,7 @@
 
 |문제(링크)|소스코드(링크)|비고|
 |:------:|:--------:|:--:|
-|[boj 14225 : 부분수열의 합](https://www.acmicpc.net/problem/14225)|[(소스)]()||
-|[boj 1062 : 가르침](https://www.acmicpc.net/problem/1062))|[(소스)]()||
-|[boj 13460 : 구슬탈출 2](https://www.acmicpc.net/problem/13460)|[(소스)]()||
-|[boj 12100 : 2048(EASY)](https://www.acmicpc.net/problem/12100)|[(소스)]()||
+|[boj 14225 : 부분수열의 합](https://www.acmicpc.net/problem/14225)|[(소스)](https://github.com/95kim1/study_learn/blob/main/ps/learn/middle1/BruteForce/%5Bboj14225_%EB%B6%80%EB%B6%84%EC%88%98%EC%97%B4%EC%9D%98%ED%95%A9%5D(bitmask).cpp)||
+|[boj 1062 : 가르침](https://www.acmicpc.net/problem/1062)|[(소스)](https://github.com/95kim1/study_learn/blob/main/ps/learn/middle1/BruteForce/%5Bboj1062_%EA%B0%80%EB%A5%B4%EC%B9%A8%5D(bitmask).cpp)||
+|[boj 13460 : 구슬탈출 2](https://www.acmicpc.net/problem/13460)|[(소스)](https://github.com/95kim1/study_learn/blob/main/ps/learn/middle1/BruteForce/%5Bboj13460_%EA%B5%AC%EC%8A%AC%ED%83%88%EC%B6%9C2%5D(bitmask).cpp)||
+|[boj 12100 : 2048(EASY)](https://www.acmicpc.net/problem/12100)|[(소스)](https://github.com/95kim1/study_learn/blob/main/ps/learn/middle1/BruteForce/%5Bboj12100_2048(EASY)%5D(bitmask).cpp)||

@@ -16,6 +16,7 @@
 
 - [middle1](https://github.com/95kim1/study_learn/tree/main/ps/study/middle1)
   + [브루트 포스](https://github.com/95kim1/study_learn/tree/main/ps/study/middle1/BruteForce)
+  + [BFS](https://github.com/95kim1/study_learn/tree/main/ps/study/middle1/BFS)
 
 <br>
 <br>
@@ -36,3 +37,4 @@
 
 - [middle1](https://github.com/95kim1/study_learn/tree/main/ps/learn/middle1)
   + [BruteForce](https://github.com/95kim1/study_learn/tree/main/ps/learn/middle1/BruteForce)
+  + [BFS](https://github.com/95kim1/study_learn/tree/main/ps/learn/middle1/BFS)
