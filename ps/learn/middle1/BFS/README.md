@@ -8,4 +8,7 @@
 |[boj 16948 : 데스 나이트](https://www.acmicpc.net/problem/16948)|[(소스)](https://github.com/95kim1/study_learn/blob/main/ps/learn/middle1/BFS/boj16948.cpp)|최단거리; depth, min: 말의 이동 횟수|
 |[boj 9019 : DSLR](https://www.acmicpc.net/problem/9019)|[(소스)](https://github.com/95kim1/study_learn/blob/main/ps/learn/middle1/BFS/boj9019.cpp)|최단거리; depth, min: 명령 횟수|
 |[boj 14502 : 연구소](https://www.acmicpc.net/problem/14502)|[(소스)](https://github.com/95kim1/study_learn/blob/main/ps/learn/middle1/BFS/boj14502.cpp)|완전탐색 bfs|
-|[boj 12886 : 돌 그룹](https://www.acmicpc.net/problem/12886)|[(소스)](https://github.com/95kim1/study_learn/blob/main/ps/learn/middle1/BFS/boj12886.cpp)|완전탐색 bfs (hint: X+Y==(X+X)+(Y-X))|
+|[boj 12886 : 돌 그룹](https://www.acmicpc.net/problem/12886)|[(소스)](https://github.com/95kim1/study_learn/blob/main/ps/learn/middle1/BFS/boj12886.cpp)|완전탐색 bfs (hint: X+Y==(X+X)+(Y-X))|[boj 2206 : 벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)|[(소스)]()|정점:(row,col,cntOfBreak)|
+|[boj 16946 : 벽 부수고 이동하기 4](https://www.acmicpc.net/problem/16946)|[(소스)]()|숲 만들기(or 그룹화)|
+|[boj 14442 : 벽 부수고 이동하기 2](https://www.acmicpc.net/problem/14442)|[(소스)]()|정점:(r,c,cnt)|
+|[boj 16933 : 벽 부수고 이동하기 3](https://www.acmicpc.net/problem/16933)|[(소스)]()|정점:(r,c,cnt,day), vector대신 array or int[]를 쓰자|
