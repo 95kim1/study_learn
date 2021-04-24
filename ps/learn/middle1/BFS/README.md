@@ -12,3 +12,10 @@
 |[boj 16946 : 벽 부수고 이동하기 4](https://www.acmicpc.net/problem/16946)|[(소스)]()|숲 만들기(or 그룹화)|
 |[boj 14442 : 벽 부수고 이동하기 2](https://www.acmicpc.net/problem/14442)|[(소스)]()|정점:(r,c,cnt)|
 |[boj 16933 : 벽 부수고 이동하기 3](https://www.acmicpc.net/problem/16933)|[(소스)]()|정점:(r,c,cnt,day), vector대신 array or int[]를 쓰자|
+|[boj 16954 : 움직인느 미로 탈출](https://www.acmicpc.net/problem/16933)|[(소스)]()|이중 while bfs|
+|[boj 3055 : 탈출](https://www.acmicpc.net/problem/3055)|[(소스)]()|이중 while bfs|
+|[boj 16236 : 아기 상어](https://www.acmicpc.net/problem/16236)|[(소스)]()|최단거리; depth,min: 이동거리|
+|[boj 6087 : 레이저 통신]()|||
+|[boj 1963 : 소수경로]()|||
+|[boj 10026 : 적록색약]()|||
+|[boj 14395 : 4 연산]()|||
