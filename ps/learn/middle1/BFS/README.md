@@ -15,7 +15,7 @@
 |[boj 16954 : 움직인느 미로 탈출](https://www.acmicpc.net/problem/16933)|[(소스)]()|이중 while bfs|
 |[boj 3055 : 탈출](https://www.acmicpc.net/problem/3055)|[(소스)]()|이중 while bfs|
 |[boj 16236 : 아기 상어](https://www.acmicpc.net/problem/16236)|[(소스)]()|최단거리; depth,min: 이동거리|
-|[boj 6087 : 레이저 통신]()|||
-|[boj 1963 : 소수경로]()|||
-|[boj 10026 : 적록색약]()|||
-|[boj 14395 : 4 연산]()|||
+|[boj 6087 : 레이저 통신](https://www.acmicpc.net/problem/6087)|[(소스)]()||
+|[boj 1963 : 소수경로](https://www.acmicpc.net/problem/1963)|[(소스)]()||
+|[boj 10026 : 적록색약](https://www.acmicpc.net/problem/10026)|[(소스)]()||
+|[boj 14395 : 4연산](https://www.acmicpc.net/problem/14395)|[(소스)]()||
