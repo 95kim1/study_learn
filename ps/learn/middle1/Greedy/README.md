@@ -29,3 +29,10 @@
 |[[boj 1783 : 병든 나이트]](https://www.acmicpc.net/problem/1783)|[(소스)](https://github.com/95kim1/study_learn/blob/main/ps/learn/middle1/Greedy/boj1783.cpp)||
 |[[boj 12970 : AB]](https://www.acmicpc.net/problem/12970)|[(소스)](https://github.com/95kim1/study_learn/blob/main/ps/learn/middle1/Greedy/boj12970.cpp)||
 |[[boj 12904 : A와 B]](https://www.acmicpc.net/problem/12904)|[(소스)](https://github.com/95kim1/study_learn/blob/main/ps/learn/middle1/Greedy/boj12904.cpp)||
+
+### 도전
+|문제(링크)|소스코드(링크)|비고|
+|:------:|:--------:|:-:|
+|[boj 1201 : NMK](https://www.acmicpc.net/problem/)|[(소스)](https://githbu.com/95kim1/study_learn/blob/main/ps/learn/middle1/Greedy/boj1201.cpp)||
+|[boj 2873 : 롤러코스터](https://www.acmicpc.net/problem/)|[(소스)](https://githbu.com/95kim1/study_learn/blob/main/ps/learn/middle1/Greedy/boj2873.cpp)||
+|[boj 12919 : A와 B 2](https://www.acmicpc.net/problem/)|[(소스)](https://githbu.com/95kim1/study_learn/blob/main/ps/learn/middle1/Greedy/boj12919.cpp)||
