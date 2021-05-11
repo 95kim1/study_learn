@@ -3,6 +3,7 @@
 ### problems
 
 |문제(링크)|소스코드(링크)|비고|
+|:------:|:--------:|:-:|
 |[boj 11047 : 동전 0](https://www.acmicpc.net/prblem/11047)|[(소스)]()||
 |[boj 1931 : 회의실 배정](https://www.acmicpc.net/prblem/1931)|[(소스)]()||
 |[boj 11399 : ATM](https://www.acmicpc.net/prblem/11399)|[(소스)]()||
@@ -13,3 +14,18 @@
 |[boj 2109 : 순회강연](https://www.acmicpc.net/prblem/2109)|[(소스)]()||
 |[boj 12738 : 가장 긴 증가하는 부분 수열 3](https://www.acmicpc.net/prblem/12738)|[(소스)]()||
 |[boj 12015 : 가장 긴 증가하는 부분 수열 2](https://www.acmicpc.net/prblem/12015)|[(소스)]()||
+
+<br>
+<br>
+
+### 연습문제
+
+|문제(링크)|소스코드(링크)|비고|
+|:------:|:--------:|:-:|
+|[[boj 1541 : 잃어버린 괄호]](https://www.acmicpc.net/problem/1541)|[(소스)]()||
+|[[boj 1744 : 수 묶기]](https://www.acmicpc.net/problem/1744)|[(소스)]()||
+|[[boj 2875 : 대회 or 인턴]](https://www.acmicpc.net/problem/2875)|[(소스)]()||
+|[[boj 10610 : 30]](https://www.acmicpc.net/problem/10610)|[(소스)]()||
+|[[boj 1783 : 병든 나이트]](https://www.acmicpc.net/problem/1783)|[(소스)]()||
+|[[boj 12970 : AB]](https://www.acmicpc.net/problem/12970)|[(소스)]()||
+|[[boj 12904 : A와 B]](https://www.acmicpc.net/problem/12904)|[(소스)]()||
